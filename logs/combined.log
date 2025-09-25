@@ -8,3 +8,7 @@
 {"level":"info","message":"::1 - - [24/Sep/2025:21:25:07 +0000] \"GET /api HTTP/1.1\" 200 41 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [24/Sep/2025:21:25:20 +0000] \"GET /api/auth HTTP/1.1\" 404 147 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [24/Sep/2025:21:26:00 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Sep/2025:05:09:48 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Sep/2025:05:11:30 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Sep/2025:05:12:13 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Sep/2025:05:13:26 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1107 \"-\" \"PostmanRuntime/7.47.1\"","service":"acquisitions-api"}
